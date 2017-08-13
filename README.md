@@ -39,7 +39,3 @@ Movie Trailer Website/
     ├──fresh_tomatoes.py
     ├──fresh_tomatoes.html
     └──README.md
-
-
-
-
