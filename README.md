@@ -11,10 +11,12 @@ https://www.python.org/download/releases/2.7/
 3. File structure
 
 ## Demo
+https://kyampo59.000webhostapp.com/index.html
+
 
 ## Download 
 Project files may be downloaded at 
-or clone the repo @ https://github.com/dthinley/movie_trailer.git
+or clone the repo @ https://github.com/dthinley/movies.git
 
 ## File Structure and documentations
 This project contained following files:
@@ -39,3 +41,5 @@ Movie Trailer Website/
     ├──fresh_tomatoes.py
     ├──fresh_tomatoes.html
     └──README.md
+
+Note: Original three files (media.py, media_center.py and fresh_tomatoes.py) was created during lecture series by instructor Kunal Chawala. Further changes in codes, file structure and contents are made to complete this project. Images file were found from google.
