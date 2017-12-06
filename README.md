@@ -1,6 +1,6 @@
 # Movie Trailer Website
 A demo web page for viewing movies trailers built as a part of the Udacity full-stack Nanodegree program. This project demonestrate the use of a movie object class in python to generate a static webpage which display and play list of movies trailers from youtube.
-![alt text](http://https://kyampo59.000webhostapp.com/index.html/to/img.png)
+![myimage-alt-tag](http://https://kyampo59.000webhostapp.com/index.html/to/img.png)
 
 ## Requirement and setup
 Require Python 2.7 to run this project. Download and details of installation and setup can be found at:
